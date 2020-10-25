@@ -2,7 +2,7 @@
   "name": "DEX",
   "version": "0.1.0",
   "description": "Decentralized Exchange",
-  "author": "majewski.post@gmail.com",
+  "author": "github.com/xternet",
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^3.2.0",
